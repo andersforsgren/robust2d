@@ -3,6 +3,7 @@ name = "robust2d"
 version = "0.1.0"
 authors = ["andersforsgren <anders.forsgren@gmail.com>"]
 build = "build.rs"
+repository="https://github.com/andersforsgren/robust2d"
 description = "Robust geometric predicates based on Jonathan Schewchuk's library https://www.cs.cmu.edu/~quake/robust.html"
 license = "MIT"
 keywords = ["geometry", "math", "robust", "predicates"]
