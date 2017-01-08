@@ -1,4 +1,4 @@
-# robust2d
+# robust2d [![Build Status](https://travis-ci.org/andersforsgren/robust2d.svg?branch=master)](https://travis-ci.org/andersforsgren/robust2d)
 
 Robust geometric predicates based on Jonathan Schewchuk's library https://www.cs.cmu.edu/~quake/robust.html
 Provides a simple ffi wrapper for the C library as well as some ergonomic Rust types and functions.
